@@ -1,2 +1,2 @@
-# bdk-examples
+# bdk-example
 Example of BDKs
