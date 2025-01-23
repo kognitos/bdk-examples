@@ -1,2 +1,2 @@
 # bdk-examples
-Example of BDKs
+Three examples of BDK books
